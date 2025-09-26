@@ -1,17 +1,4 @@
-+--------------------------------------------------------------+
-|   🚀 Developer Learning Resources                            |
-|   Curated tools & guides for developers                      |
-|                                                              |
-|   🔧 Git    🐍 Python    🗄️ SQL    🐧 Linux    ⚡ Next.js       |
-+--------------------------------------------------------------+
 
-<p align="center">
-  <img src="banner.png" alt="Developer Learning Resources Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="banner.png" alt="Developer Learning Resources Banner" width="100%" />
-</p>
 
 # 📘 Developer Learning & Practice Hub  
 
@@ -155,16 +142,17 @@ Whether you’re preparing for interviews, brushing up on Git, or exploring new 
 
 ---
 
-## ✅ Recommended Workflow  
+## ✅ Recommended Workflow
 
 ```mermaid
 flowchart TD
-    A[Start 🚀] --> B[Learn Git 🔧]
-    B --> C[Practice SQL 📊]
-    C --> D[Debug with PythonTutor 🐍]
-    D --> E[Build Projects 🔨]
-    E --> F[Host Projects 🖥]
-    F --> G[Interview Prep 💼]
-    G --> H[Linux & Next.js 🐧⚡]
-    H --> I[Level Up! 🚀]
----
+    A[Oh Shit, Git!? 🤯] --> B[Learn Git Branching 🔧]
+    B --> C[Build Your Own Git 🛠️]
+    C --> D[SQLBolt 🗄️ Learn SQL]
+    D --> E[Python Tutor 🐍 Visual Debugging]
+    E --> F[Coding Interview University 📘]
+    F --> G[Software Engineer Interview Handbook 📑]
+    G --> H[Linux Lovers 🐧]
+    H --> I[Next.js Docs ⚡ Modern Web Dev]
+    I --> J[Build & Self-host Projects 🚀]
+```
